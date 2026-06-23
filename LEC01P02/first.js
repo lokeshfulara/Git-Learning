@@ -1,5 +1,5 @@
 const name="Lucky";
-const age=20;
+const age=90;
 const balence=420;
 
 console.log("Hello");
@@ -14,7 +14,12 @@ console.log("Mai hu hero tera");
 console.log("Jai shiya ram");
 console.log("Bug last commit");
 
-function showage(value){
-    consolel.loga(age+value);
+function showage(){
+    console.log(age);
 }
-showage(20);
+showage();
+
+function showname(){
+    console.log(name);
+}
+showname();
