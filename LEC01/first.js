@@ -4,3 +4,7 @@ const a=90;
 console.log(a);
 
 console.log("jhjhdskjhkjds");
+
+function balencechecker(){
+    
+}
