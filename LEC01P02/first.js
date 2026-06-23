@@ -13,3 +13,8 @@ console.log("Mai hu hero tera");
 
 console.log("Jai shiya ram");
 console.log("Bug last commit");
+
+function showage(value){
+    consolel.loga(age+value);
+}
+showage(20);
