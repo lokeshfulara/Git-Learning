@@ -10,3 +10,5 @@ function updatebalence(){
 updatebalence();
 console.log(balence);
 console.log("Mai hu hero tera");
+
+console.log("Jai shiya ram");
