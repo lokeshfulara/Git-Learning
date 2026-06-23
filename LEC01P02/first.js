@@ -8,3 +8,4 @@ function updatebalence(){
 }
 
 updatebalence();
+console.log(balence);
