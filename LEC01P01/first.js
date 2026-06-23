@@ -8,5 +8,3 @@ function updatebalence(){
     balence+=20;
 }
 
-
-console.log("Hello Coder Army");
