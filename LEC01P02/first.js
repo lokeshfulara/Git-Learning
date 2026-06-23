@@ -18,3 +18,8 @@ function showage(){
     console.log(age);
 }
 showage();
+
+function showname(){
+    console.log(name);
+}
+showname();
