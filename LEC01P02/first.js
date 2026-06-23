@@ -11,3 +11,4 @@ updatebalence();
 console.log(balence);
 console.log("Money Honey");
 console.log("Bug final commit");
+console.log("Bug last commit");
