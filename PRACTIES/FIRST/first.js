@@ -6,5 +6,6 @@ console.log("Hello Coder Army");
 
 function updatebalence(balence){
     balence+=20;
+    return balence;
 }
-updatebalence(20);
+console.log(updatebalence(10));
