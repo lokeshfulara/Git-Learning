@@ -9,3 +9,10 @@ function updatebalence(balence){
     return balence;
 }
 console.log(updatebalence(10));
+
+
+function updatename(name){
+    name=name;
+    return name;
+}
+console.log(updatename("mohan"));
